@@ -9,4 +9,23 @@ h1 {
 	text-align:center;
 	color:#F0D766
 }
-
+a{
+	text-decoration:none;
+}
+#firstp{
+	line-height:12;
+	color:chocolate;
+	
+}
+#secondp{
+	color:brown;
+}
+p{
+	font-family:Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+}
+.blue{
+	color:darkorange;
+}
+.bye{
+	color:darkslategrey;
+}
